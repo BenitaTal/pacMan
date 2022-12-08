@@ -1,7 +1,7 @@
 # pacMan
 
                         PACMAN: 
-					              	--------------rules--------------
+			--------------rules--------------
 
         1. PacMan (Yellow) Run From 3 Ghost (Red, Pink, Oragne) For 15 sec' And Then Chase Them For 8 sec'. 
         2. The Game Run Automatictly Base on A* Algo And More.
